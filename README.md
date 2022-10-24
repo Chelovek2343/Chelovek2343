@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chelovek2343&show_icons=true&locale=en" alt="chelovek2343" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chelovek2343&" alt="chelovek2343" /></p>
+
+<figure><embed src="https://wakatime.com/share/@1785f2d4-f673-4a4d-bbac-792cca589408/bec5ec04-f64d-4786-b3b5-faa161f0135e.svg"></embed></figure>
