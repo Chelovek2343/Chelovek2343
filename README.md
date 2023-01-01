@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Comment Section](https://github.com/Chelovek2343/comment-section)
+- 🔭 I’m currently working on [Calculator](#)
 
 - 🌱 I’m currently learning **Javascript, React**
 
